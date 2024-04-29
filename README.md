@@ -15,4 +15,5 @@ Right-click on the generated QR code image to save or download it.
 Files Included
 index.html: Contains the structure of the web page.
 style.css: CSS file for styling the HTML elements.
-script.js: JavaScript file for generating QR code using the qrcode.js library.
+
+For generating qr we have used open API>
